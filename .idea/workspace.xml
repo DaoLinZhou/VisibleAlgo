@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce94acd7-0c77-4b7d-90b8-08881ec92a08" name="Default" comment="" />
+    <list default="true" id="ce94acd7-0c77-4b7d-90b8-08881ec92a08" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/WinningPrize/WinningPrize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GetPI/Without_Rendering/MonteCarloExperiment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GetPI/Without_Rendering/MonteCarloExperiment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThreeGateExperiment/ThreeGateExperiment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThreeGateExperiment/ThreeGateExperiment.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -11,30 +16,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="AlgoVisHelper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GetPI/AlgoVisHelper.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="MonteCarloExperiment.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GetPI/Without_Rendering/MonteCarloExperiment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AlgoVisualizer.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/GetPI/AlgoVisualizer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="48" column="18" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AlgoFrame.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GetPI/AlgoFrame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="56" column="18" lean-forward="true" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
+            <state relative-caret-position="107">
+              <caret line="44" column="19" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -42,20 +29,40 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Circle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GetPI/Circle.java">
+      <file leaf-file-name="ThreeGateExperiment.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ThreeGateExperiment/ThreeGateExperiment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="672">
-              <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+            <state relative-caret-position="-20">
+              <caret line="30" column="28" lean-forward="true" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WinningPrize.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/WinningPrize/WinningPrize.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="42" column="24" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AlgoVisualizer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GetPI/AlgoVisualizer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="777">
+              <caret line="40" column="43" selection-start-line="38" selection-start-column="12" selection-end-line="40" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AlgoFrame.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GetPI/AlgoFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1113">
+              <caret line="56" column="18" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
               <folding>
-                <element signature="e#239#240#0" expanded="true" />
-                <element signature="e#263#264#0" expanded="true" />
-                <element signature="e#288#289#0" expanded="true" />
-                <element signature="e#312#313#0" expanded="true" />
-                <element signature="e#337#338#0" expanded="true" />
-                <element signature="e#361#362#0" expanded="true" />
-                <element signature="e#420#421#0" expanded="true" />
-                <element signature="e#505#506#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -69,6 +76,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
@@ -89,6 +99,9 @@
         <option value="$PROJECT_DIR$/src/GetPI/MonteCarloPiData.java" />
         <option value="$PROJECT_DIR$/src/GetPI/AlgoFrame.java" />
         <option value="$PROJECT_DIR$/src/GetPI/AlgoVisualizer.java" />
+        <option value="$PROJECT_DIR$/src/GetPI/Without_Rendering/MonteCarloExperiment.java" />
+        <option value="$PROJECT_DIR$/src/ThreeGateExperiment/ThreeGateExperiment.java" />
+        <option value="$PROJECT_DIR$/src/WinningPrize/WinningPrize.java" />
       </list>
     </option>
   </component>
@@ -102,19 +115,18 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="331" />
-    <option name="y" value="63" />
+    <option name="x" value="330" />
+    <option name="y" value="60" />
     <option name="width" value="1385" />
     <option name="height" value="745" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -131,12 +143,14 @@
               <item name="VisibleAlgo" type="b2602c69:ProjectViewProjectNode" />
               <item name="VisibleAlgo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="GetPI" type="462c0819:PsiDirectoryNode" />
+              <item name="WinningPrize" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -165,7 +179,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AlgoVisualizer (1)">
+  <component name="RunManager" selected="Application.WinningPrize">
     <configuration name="AlgoVisualizer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GetPI.AlgoVisualizer" />
       <module name="VisibleAlgo" />
@@ -184,6 +198,39 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="MoneyProblem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="MonteCarloExperiment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GetPI.Without_Rendering.MonteCarloExperiment" />
+      <module name="VisibleAlgo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GetPI.Without_Rendering.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ThreeGateExperiment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreeGateExperiment.ThreeGateExperiment" />
+      <module name="VisibleAlgo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ThreeGateExperiment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="WinningPrize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WinningPrize.WinningPrize" />
+      <module name="VisibleAlgo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WinningPrize.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -232,9 +279,15 @@
     <list>
       <item itemvalue="Application.AlgoVisualizer" />
       <item itemvalue="Application.AlgoVisualizer (1)" />
+      <item itemvalue="Application.MonteCarloExperiment" />
+      <item itemvalue="Application.ThreeGateExperiment" />
+      <item itemvalue="Application.WinningPrize" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WinningPrize" />
+        <item itemvalue="Application.ThreeGateExperiment" />
+        <item itemvalue="Application.MonteCarloExperiment" />
         <item itemvalue="Application.AlgoVisualizer (1)" />
         <item itemvalue="Application.AlgoVisualizer" />
       </list>
@@ -250,47 +303,49 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553927971742</updated>
-      <workItem from="1553927974242" duration="4440000" />
+      <workItem from="1553927974242" duration="4762000" />
+      <workItem from="1554196135443" duration="818000" />
+      <workItem from="1554196981603" duration="69000" />
+      <workItem from="1554266243127" duration="2974000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4440000" />
+    <option name="totallyTimeSpent" value="8623000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32905984" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Sequence" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
+      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3281027" />
+      <window_info anchor="bottom" id="Sequence" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3281027" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2600536" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3988604" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -298,6 +353,9 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -308,10 +366,99 @@
           <properties />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/GetPI/Without_Rendering/MonteCarloExperiment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="44" column="19" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GetPI/AlgoVisualizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="40" column="43" selection-start-line="38" selection-start-column="12" selection-end-line="40" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GetPI/AlgoFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1113">
+          <caret line="56" column="18" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GetPI/Without_Rendering/MonteCarloExperiment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="44" column="19" lean-forward="true" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GetPI/AlgoVisualizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="40" column="43" lean-forward="true" selection-start-line="38" selection-start-column="12" selection-end-line="40" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GetPI/AlgoFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1113">
+          <caret line="56" column="18" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GetPI/AlgoVisHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GetPI/AlgoFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1176">
+          <caret line="56" column="18" lean-forward="true" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GetPI/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#503#504#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GetPI/AlgoVisualizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="48" column="23" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/MoneyProblem/AlgoVisHelper.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -332,23 +479,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GetPI/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-          <folding>
-            <element signature="e#239#240#0" expanded="true" />
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#288#289#0" expanded="true" />
-            <element signature="e#312#313#0" expanded="true" />
-            <element signature="e#337#338#0" expanded="true" />
-            <element signature="e#361#362#0" expanded="true" />
-            <element signature="e#420#421#0" expanded="true" />
-            <element signature="e#505#506#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Template/AlgoVisualizer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -358,7 +488,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GetPI/AlgoVisHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
+        <state relative-caret-position="630">
           <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
         </state>
       </provider>
@@ -367,13 +497,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="274">
           <caret line="48" column="1" lean-forward="true" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
-            <element signature="e#425#426#0" expanded="true" />
-            <element signature="e#644#645#0" expanded="true" />
-            <element signature="e#678#679#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -381,17 +504,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="148">
           <caret line="3311" column="16" selection-start-line="3311" selection-start-column="16" selection-end-line="3311" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GetPI/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
           <folding>
-            <element signature="e#114530#114531#0" expanded="true" />
-            <element signature="e#114577#114578#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#503#504#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GetPI/AlgoFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="56" column="18" lean-forward="true" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
+        <state relative-caret-position="1113">
+          <caret line="56" column="18" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -400,8 +530,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GetPI/AlgoVisualizer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="48" column="18" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
+        <state relative-caret-position="777">
+          <caret line="40" column="43" selection-start-line="38" selection-start-column="12" selection-end-line="40" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GetPI/Without_Rendering/MonteCarloExperiment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="44" column="19" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThreeGateExperiment/ThreeGateExperiment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-20">
+          <caret line="30" column="28" lean-forward="true" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WinningPrize/WinningPrize.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="42" column="24" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
         </state>
       </provider>
     </entry>
