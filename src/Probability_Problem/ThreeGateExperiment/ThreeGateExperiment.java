@@ -1,4 +1,4 @@
-package ThreeGateExperiment;
+package Probability_Problem.ThreeGateExperiment;
 
 /**
  * Create by Daolin

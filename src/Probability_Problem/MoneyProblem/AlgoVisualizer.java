@@ -1,4 +1,4 @@
-package MoneyProblem;
+package Probability_Problem.MoneyProblem;
 
 import java.awt.*;
 import java.util.Arrays;
@@ -18,7 +18,7 @@ public class AlgoVisualizer {
 
         // 初始化视图
         EventQueue.invokeLater(() -> {
-            frame = new AlgoFrame("MoneyProblem", sceneWidth, sceneHeight);
+            frame = new AlgoFrame("Probability_Problem/MoneyProblem", sceneWidth, sceneHeight);
             new Thread(() -> run()).start();
         });
     }

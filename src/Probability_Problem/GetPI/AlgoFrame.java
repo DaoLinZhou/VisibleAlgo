@@ -1,9 +1,7 @@
-package GetPI;
+package Probability_Problem.GetPI;
 
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.MouseAdapter;
-import java.util.LinkedList;
 
 public class AlgoFrame extends JFrame{
 

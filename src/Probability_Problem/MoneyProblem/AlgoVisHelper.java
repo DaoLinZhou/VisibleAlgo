@@ -1,4 +1,4 @@
-package MoneyProblem;
+package Probability_Problem.MoneyProblem;
 
 import javax.swing.*;
 import java.awt.*;

@@ -1,4 +1,4 @@
-package GetPI;
+package Probability_Problem.GetPI;
 
 import javax.swing.*;
 import java.awt.*;

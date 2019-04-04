@@ -1,4 +1,4 @@
-package WinningPrize;
+package Probability_Problem.WinningPrize;
 
 /**
  * Create by Daolin

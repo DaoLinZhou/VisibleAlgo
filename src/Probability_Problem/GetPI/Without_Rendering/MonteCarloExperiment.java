@@ -1,7 +1,7 @@
-package GetPI.Without_Rendering;
+package Probability_Problem.GetPI.Without_Rendering;
 
-import GetPI.Circle;
-import GetPI.MonteCarloPiData;
+import Probability_Problem.GetPI.Circle;
+import Probability_Problem.GetPI.MonteCarloPiData;
 
 import java.awt.*;
 

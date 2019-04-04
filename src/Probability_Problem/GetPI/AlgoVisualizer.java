@@ -1,9 +1,6 @@
-package GetPI;
+package Probability_Problem.GetPI;
 
 import java.awt.*;
-import java.awt.event.KeyAdapter;
-import java.awt.event.MouseAdapter;
-import java.util.LinkedList;
 
 public class AlgoVisualizer {
 
