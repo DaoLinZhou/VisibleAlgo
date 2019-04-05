@@ -1,8 +1,6 @@
-package Sort_Visualization.InsertionSortData;
+package Sort_Visualization.InsertionSortVisualization;
 
 import java.awt.*;
-import java.awt.event.KeyAdapter;
-import java.awt.event.MouseAdapter;
 
 public class AlgoVisualizer {
 

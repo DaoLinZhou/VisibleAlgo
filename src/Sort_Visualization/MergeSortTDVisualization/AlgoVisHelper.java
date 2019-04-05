@@ -1,4 +1,4 @@
-package Sort_Visualization.InsertionSortData;
+package Sort_Visualization.MergeSortTDVisualization;
 
 import javax.swing.*;
 import java.awt.*;

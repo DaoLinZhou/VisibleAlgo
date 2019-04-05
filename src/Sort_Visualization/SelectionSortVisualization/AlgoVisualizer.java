@@ -1,4 +1,4 @@
-package Sort_Visualization.SelectionSortData;
+package Sort_Visualization.SelectionSortVisualization;
 
 import java.awt.*;
 

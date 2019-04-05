@@ -1,4 +1,4 @@
-package Sort_Visualization.InsertionSortData;
+package Sort_Visualization.InsertionSortVisualization;
 
 import java.util.Arrays;
 
