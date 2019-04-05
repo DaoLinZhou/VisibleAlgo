@@ -15,7 +15,7 @@ public class SelectionSortData {
     public SelectionSortData(int N, int randomBound){
         numbers = new int[N];
         for(int i = 0; i < N; i++)
-        numbers[i] = (int) (Math.random() * randomBound) + 1;
+            numbers[i] = (int) (Math.random() * randomBound) + 1;
     }
 
     public int N(){

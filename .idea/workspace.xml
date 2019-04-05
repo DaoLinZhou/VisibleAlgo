@@ -2,38 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce94acd7-0c77-4b7d-90b8-08881ec92a08" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Sort_Visualization/SelectionSortData/AlgoFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sort_Visualization/SelectionSortData/AlgoVisHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sort_Visualization/SelectionSortData/AlgoVisualizer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sort_Visualization/SelectionSortData/SelectionSortData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/46611.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sort_Visualization/InsertionSortData/InsertionSortData.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/VisibleAlgo/GetPI/AlgoFrame$AlgoCanvas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/VisibleAlgo/GetPI/AlgoFrame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/VisibleAlgo/GetPI/AlgoVisHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/VisibleAlgo/GetPI/AlgoVisualizer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/VisibleAlgo/GetPI/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/VisibleAlgo/GetPI/MonteCarloPiData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/VisibleAlgo/MoneyProblem/AlgoFrame$AlgoCanvas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/VisibleAlgo/MoneyProblem/AlgoFrame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/VisibleAlgo/MoneyProblem/AlgoVisHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/VisibleAlgo/MoneyProblem/AlgoVisualizer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/VisibleAlgo/Template/AlgoVisualizer$AlgoKeyListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VisibleAlgo/Template/AlgoVisualizer$AlgoKeyListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/VisibleAlgo/Template/AlgoVisualizer$AlgoMouseListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VisibleAlgo/Template/AlgoVisualizer$AlgoMouseListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/VisibleAlgo/Template/AlgoVisualizer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VisibleAlgo/Template/AlgoVisualizer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GetPI/AlgoFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Probability_Problem/GetPI/AlgoFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GetPI/AlgoVisHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Probability_Problem/GetPI/AlgoVisHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GetPI/AlgoVisualizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Probability_Problem/GetPI/AlgoVisualizer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GetPI/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Probability_Problem/GetPI/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GetPI/MonteCarloPiData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Probability_Problem/GetPI/MonteCarloPiData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GetPI/Without_Rendering/MonteCarloExperiment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Probability_Problem/GetPI/Without_Rendering/MonteCarloExperiment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MoneyProblem/AlgoFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Probability_Problem/MoneyProblem/AlgoFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MoneyProblem/AlgoVisHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Probability_Problem/MoneyProblem/AlgoVisHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MoneyProblem/AlgoVisualizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Probability_Problem/MoneyProblem/AlgoVisualizer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Template/AlgoFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Template/AlgoFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Template/AlgoVisHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Template/AlgoVisHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Template/AlgoVisualizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Template/AlgoVisualizer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ThreeGateExperiment/ThreeGateExperiment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Probability_Problem/ThreeGateExperiment/ThreeGateExperiment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WinningPrize/WinningPrize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Probability_Problem/WinningPrize/WinningPrize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sort_Visualization/SelectionSortData/SelectionSortData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sort_Visualization/SelectionSortData/SelectionSortData.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,41 +18,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AlgoVisHelper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Sort_Visualization/SelectionSortData/AlgoVisHelper.java">
+      <file leaf-file-name="AlgoVisualizer.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Sort_Visualization/InsertionSortData/AlgoVisualizer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AlgoVisualizer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Sort_Visualization/SelectionSortData/AlgoVisualizer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="239">
+              <caret line="58" column="5" lean-forward="true" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="AlgoFrame.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Sort_Visualization/SelectionSortData/AlgoFrame.java">
+        <entry file="file://$PROJECT_DIR$/src/Sort_Visualization/InsertionSortData/AlgoFrame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="308">
+              <caret line="77" column="16" selection-start-line="77" selection-start-column="16" selection-end-line="77" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SelectionSortData.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Sort_Visualization/SelectionSortData/SelectionSortData.java">
+      <file leaf-file-name="InsertionSortData.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Sort_Visualization/InsertionSortData/InsertionSortData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="84">
+              <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
               <folding>
-                <element signature="e#341#342#0" expanded="true" />
-                <element signature="e#378#379#0" expanded="true" />
+                <element signature="e#939#940#0" expanded="true" />
+                <element signature="e#958#959#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -124,6 +91,11 @@
         <option value="$PROJECT_DIR$/src/Sort_Visualization/AlgoFrame.java" />
         <option value="$PROJECT_DIR$/src/Sort_Visualization/AlgoVisualizer.java" />
         <option value="$PROJECT_DIR$/src/Sort_Visualization/SelectionSortData/AlgoVisualizer.java" />
+        <option value="$PROJECT_DIR$/src/Sort_Visualization/SelectionSortData/AlgoFrame.java" />
+        <option value="$PROJECT_DIR$/src/Sort_Visualization/SelectionSortData/SelectionSortData.java" />
+        <option value="$PROJECT_DIR$/src/Sort_Visualization/InsertionSortData/AlgoFrame.java" />
+        <option value="$PROJECT_DIR$/src/Sort_Visualization/InsertionSortData/InsertionSortData.java" />
+        <option value="$PROJECT_DIR$/src/Sort_Visualization/InsertionSortData/AlgoVisualizer.java" />
       </list>
     </option>
   </component>
@@ -148,8 +120,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -173,13 +146,12 @@
               <item name="VisibleAlgo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Sort_Visualization" type="462c0819:PsiDirectoryNode" />
-              <item name="SelectionSortData" type="462c0819:PsiDirectoryNode" />
+              <item name="InsertionSortData" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -189,12 +161,15 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Sort_Visualization.InsertionSortData" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\46611\IdeaProjects\VisibleAlgo\src\Sort_Visualization\InsertionSortData" />
       <recent name="C:\Users\46611\IdeaProjects\VisibleAlgo\src\Sort_Visualization" />
       <recent name="C:\Users\46611\IdeaProjects\VisibleAlgo\src\GetPI" />
       <recent name="C:\Users\46611\IdeaProjects\VisibleAlgo\src" />
       <recent name="C:\Users\46611\IdeaProjects\VisibleAlgo\src\Template" />
-      <recent name="C:\Users\46611\IdeaProjects\VisibleAlgo\src\MoneyProblem" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -210,6 +185,17 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.AlgoVisualizer (1)">
+    <configuration name="AlgoVisualizer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sort_Visualization.InsertionSortData.AlgoVisualizer" />
+      <module name="VisibleAlgo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sort_Visualization.InsertionSortData.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="AlgoVisualizer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Probability_Problem.MoneyProblem.AlgoVisualizer" />
       <module name="VisibleAlgo" />
@@ -319,10 +305,10 @@
     </configuration>
     <list>
       <item itemvalue="Application.AlgoVisualizer" />
-      <item itemvalue="Application.AlgoVisualizer (1)" />
       <item itemvalue="Application.MonteCarloExperiment" />
       <item itemvalue="Application.ThreeGateExperiment" />
       <item itemvalue="Application.WinningPrize" />
+      <item itemvalue="Application.AlgoVisualizer (1)" />
     </list>
     <recent_temporary>
       <list>
@@ -330,7 +316,6 @@
         <item itemvalue="Application.WinningPrize" />
         <item itemvalue="Application.ThreeGateExperiment" />
         <item itemvalue="Application.MonteCarloExperiment" />
-        <item itemvalue="Application.AlgoVisualizer (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -349,7 +334,9 @@
       <workItem from="1554196981603" duration="69000" />
       <workItem from="1554266243127" duration="3159000" />
       <workItem from="1554292483663" duration="1653000" />
-      <workItem from="1554373938372" duration="1854000" />
+      <workItem from="1554373938372" duration="2642000" />
+      <workItem from="1554404599070" duration="1855000" />
+      <workItem from="1554435752883" duration="1425000" />
     </task>
     <task id="LOCAL-00001" summary="Probability problem">
       <created>1554271590788</created>
@@ -358,11 +345,18 @@
       <option name="project" value="LOCAL" />
       <updated>1554271590788</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Selection Sort Visualization">
+      <created>1554376775687</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1554376775687</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12315000" />
+    <option name="totallyTimeSpent" value="16383000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -389,10 +383,10 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.3281027" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32952926" />
       <window_info anchor="bottom" id="Sequence" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3281027" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3281027" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26675603" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27345845" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -416,7 +410,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Probability problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="Probability problem" />
+    <MESSAGE value="Selection Sort Visualization" />
+    <option name="LAST_COMMIT_MESSAGE" value="Selection Sort Visualization" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -431,6 +426,62 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Sort_Visualization/InsertionSortData/AlgoVisualizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="11" lean-forward="true" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sort_Visualization/InsertionSortData/AlgoFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1596">
+          <caret line="77" column="16" lean-forward="true" selection-start-line="77" selection-start-column="16" selection-end-line="77" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sort_Visualization/InsertionSortData/InsertionSortData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding>
+            <element signature="e#939#940#0" expanded="true" />
+            <element signature="e#958#959#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sort_Visualization/SelectionSortData/AlgoVisHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1785">
+          <caret line="90" column="34" selection-start-line="90" selection-start-column="24" selection-end-line="90" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sort_Visualization/SelectionSortData/AlgoVisualizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sort_Visualization/SelectionSortData/SelectionSortData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sort_Visualization/SelectionSortData/AlgoFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1491">
+          <caret line="72" column="34" selection-start-line="72" selection-start-column="34" selection-end-line="72" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Sort_Visualization/SelectionSortData/AlgoVisHelper.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -445,10 +496,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="567">
           <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
-          <folding>
-            <element signature="e#341#342#0" expanded="true" />
-            <element signature="e#378#379#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -463,9 +510,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="861">
           <caret line="44" column="19" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -497,9 +541,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="924">
           <caret line="44" column="19" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -524,9 +565,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="924">
           <caret line="44" column="19" lean-forward="true" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -654,9 +692,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="861">
           <caret line="44" column="19" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -674,20 +709,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sort_Visualization/SelectionSortData/AlgoFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sort_Visualization/SelectionSortData/AlgoVisHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Sort_Visualization/SelectionSortData/AlgoVisualizer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
@@ -695,14 +716,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sort_Visualization/SelectionSortData/AlgoVisHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="90" column="34" selection-start-line="90" selection-start-column="24" selection-end-line="90" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Sort_Visualization/SelectionSortData/SelectionSortData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="252">
+          <caret line="12" column="55" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="12" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sort_Visualization/SelectionSortData/AlgoFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="75" column="13" lean-forward="true" selection-start-line="62" selection-start-column="12" selection-end-line="75" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sort_Visualization/InsertionSortData/AlgoVisHelper.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sort_Visualization/InsertionSortData/AlgoFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="77" column="16" selection-start-line="77" selection-start-column="16" selection-end-line="77" selection-end-column="16" />
           <folding>
-            <element signature="e#341#342#0" expanded="true" />
-            <element signature="e#378#379#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sort_Visualization/InsertionSortData/InsertionSortData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding>
+            <element signature="e#939#940#0" expanded="true" />
+            <element signature="e#958#959#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sort_Visualization/InsertionSortData/AlgoVisualizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="58" column="5" lean-forward="true" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
         </state>
       </provider>
     </entry>
