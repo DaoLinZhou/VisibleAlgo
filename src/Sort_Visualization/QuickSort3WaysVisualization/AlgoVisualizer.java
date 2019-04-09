@@ -94,8 +94,8 @@ public class AlgoVisualizer {
         int sceneWidth = 800;
         int sceneHeight = 800;
         int N = 100;
-        //AlgoVisualizer visualizer = new AlgoVisualizer(sceneWidth, sceneHeight, N);
+        AlgoVisualizer visualizer = new AlgoVisualizer(sceneWidth, sceneHeight, N);
         //AlgoVisualizer visualizer = new AlgoVisualizer(sceneWidth, sceneHeight, N, ThreeWaysQuickSortData.Type.Identical);
-        AlgoVisualizer visualizer = new AlgoVisualizer(sceneWidth, sceneHeight, N, ThreeWaysQuickSortData.Type.NearlyOrdered);
+        //AlgoVisualizer visualizer = new AlgoVisualizer(sceneWidth, sceneHeight, N, ThreeWaysQuickSortData.Type.NearlyOrdered);
     }
 }

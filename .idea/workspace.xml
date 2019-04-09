@@ -2,11 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce94acd7-0c77-4b7d-90b8-08881ec92a08" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Sort_Visualization/HeapSortVisualization/AlgoFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sort_Visualization/HeapSortVisualization/AlgoVisHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sort_Visualization/HeapSortVisualization/AlgoVisualizer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sort_Visualization/HeapSortVisualization/HeapSortData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeSolver/MazeSolver.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeSolver/maze_101_101.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeSolver/src/breadth_first_non_recursive/AlgoFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeSolver/src/breadth_first_non_recursive/AlgoVisHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeSolver/src/breadth_first_non_recursive/AlgoVisualizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeSolver/src/breadth_first_non_recursive/MazeData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeSolver/src/breadth_first_non_recursive/Position.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeSolver/src/depth_first_non_recursive/AlgoFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeSolver/src/depth_first_non_recursive/AlgoVisHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeSolver/src/depth_first_non_recursive/AlgoVisualizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeSolver/src/depth_first_non_recursive/MazeData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeSolver/src/depth_first_non_recursive/Position.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeSolver/src/depth_first_recursion/AlgoFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeSolver/src/depth_first_recursion/AlgoVisHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeSolver/src/depth_first_recursion/AlgoVisualizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeSolver/src/depth_first_recursion/MazeData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sort_Visualization/QuickSort3WaysVisualization/AlgoVisualizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sort_Visualization/QuickSort3WaysVisualization/AlgoVisualizer.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,29 +32,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HeapSortData.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Sort_Visualization/HeapSortVisualization/HeapSortData.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-104">
-              <caret line="6" column="25" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="AlgoVisualizer.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Sort_Visualization/HeapSortVisualization/AlgoVisualizer.java">
+        <entry file="file://$PROJECT_DIR$/MazeSolver/src/breadth_first_non_recursive/AlgoVisualizer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="59" column="35" selection-start-line="59" selection-start-column="35" selection-end-line="59" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AlgoFrame.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Sort_Visualization/HeapSortVisualization/AlgoFrame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="66" column="20" lean-forward="true" selection-start-line="66" selection-start-column="20" selection-end-line="66" selection-end-column="20" />
+            <state relative-caret-position="336">
+              <caret line="65" column="5" lean-forward="true" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -57,6 +53,9 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>data.r</find>
+      <find>FoldingData</find>
+      <find>currentFormats</find>
+      <find>getContents</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -74,8 +73,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/MoneyProblem/AlgoFrame.java" />
-        <option value="$PROJECT_DIR$/src/Template/AlgoFrame.java" />
         <option value="$PROJECT_DIR$/src/GetPI/Circle.java" />
         <option value="$PROJECT_DIR$/src/Template/AlgoVisualizer.java" />
         <option value="$PROJECT_DIR$/src/GetPI/MonteCarloPiData.java" />
@@ -111,10 +108,22 @@
         <option value="$PROJECT_DIR$/src/Sort_Visualization/QuickSort2WaysVisualization/AlgoVisualizer.java" />
         <option value="$PROJECT_DIR$/src/Sort_Visualization/QuickSort3WaysVisualization/TwoWaysQuickSortData.java" />
         <option value="$PROJECT_DIR$/src/Sort_Visualization/QuickSort3WaysVisualization/AlgoFrame.java" />
-        <option value="$PROJECT_DIR$/src/Sort_Visualization/QuickSort3WaysVisualization/AlgoVisualizer.java" />
         <option value="$PROJECT_DIR$/src/Sort_Visualization/HeapSortVisualization/HeapSortData.java" />
         <option value="$PROJECT_DIR$/src/Sort_Visualization/HeapSortVisualization/AlgoFrame.java" />
         <option value="$PROJECT_DIR$/src/Sort_Visualization/HeapSortVisualization/AlgoVisualizer.java" />
+        <option value="$PROJECT_DIR$/MazeSolver/src/Main.java" />
+        <option value="$PROJECT_DIR$/MazeSolver/src/MazeData.java" />
+        <option value="$PROJECT_DIR$/MazeSolver/src/AlgoFrame.java" />
+        <option value="$PROJECT_DIR$/src/Sort_Visualization/QuickSort3WaysVisualization/AlgoVisualizer.java" />
+        <option value="$PROJECT_DIR$/MazeSolver/src/AlgoVisualizer.java" />
+        <option value="$PROJECT_DIR$/MazeSolver/src/depth_first_recursion/AlgoVisHelper.java" />
+        <option value="$PROJECT_DIR$/MazeSolver/src/Test.java" />
+        <option value="$PROJECT_DIR$/MazeSolver/src/depth_first_non_recursive/Position.java" />
+        <option value="$PROJECT_DIR$/MazeSolver/src/depth_first_non_recursive/MazeData.java" />
+        <option value="$PROJECT_DIR$/MazeSolver/src/depth_first_non_recursive/AlgoVisualizer.java" />
+        <option value="$PROJECT_DIR$/MazeSolver/src/depth_first_non_recursive/AlgoFrame.java" />
+        <option value="$PROJECT_DIR$/MazeSolver/src/breadth_first_non_recursive/Position.java" />
+        <option value="$PROJECT_DIR$/MazeSolver/src/breadth_first_non_recursive/AlgoVisualizer.java" />
       </list>
     </option>
   </component>
@@ -139,7 +148,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -151,42 +160,41 @@
             <path>
               <item name="VisibleAlgo" type="b2602c69:ProjectViewProjectNode" />
               <item name="VisibleAlgo" type="462c0819:PsiDirectoryNode" />
+              <item name="MazeSolver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VisibleAlgo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VisibleAlgo" type="462c0819:PsiDirectoryNode" />
+              <item name="MazeSolver" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="VisibleAlgo" type="b2602c69:ProjectViewProjectNode" />
               <item name="VisibleAlgo" type="462c0819:PsiDirectoryNode" />
+              <item name="MazeSolver" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Sort_Visualization" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="VisibleAlgo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VisibleAlgo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Sort_Visualization" type="462c0819:PsiDirectoryNode" />
-              <item name="HeapSortVisualization" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="VisibleAlgo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VisibleAlgo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Sort_Visualization" type="462c0819:PsiDirectoryNode" />
-              <item name="QuickSort3WaysVisualization" type="462c0819:PsiDirectoryNode" />
+              <item name="breadth_first_non_recursive" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\46611\IdeaProjects\VisibleAlgo\MazeSolver" />
+      <recent name="C:\Users\46611\IdeaProjects\VisibleAlgo\MazeSolver\src" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Sort_Visualization.HeapSortVisualization" />
       <recent name="Sort_Visualization.QuickSortVisualization" />
@@ -194,11 +202,11 @@
       <recent name="Sort_Visualization.InsertionSortData" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\46611\IdeaProjects\VisibleAlgo\MazeSolver\src\breadth_first_non_recursive" />
+      <recent name="C:\Users\46611\IdeaProjects\VisibleAlgo\MazeSolver\src\depth_first_recursion" />
+      <recent name="C:\Users\46611\IdeaProjects\VisibleAlgo\MazeSolver\src" />
+      <recent name="C:\Users\46611\IdeaProjects\VisibleAlgo\MazeSolver" />
       <recent name="C:\Users\46611\IdeaProjects\VisibleAlgo\src\Sort_Visualization\HeapSortVisualization" />
-      <recent name="C:\Users\46611\IdeaProjects\VisibleAlgo\src\Sort_Visualization\QuickSort3WaysVisualization" />
-      <recent name="C:\Users\46611\IdeaProjects\VisibleAlgo\src\Sort_Visualization\QuickSort2WaysVisualization" />
-      <recent name="C:\Users\46611\IdeaProjects\VisibleAlgo\src\Sort_Visualization\QuickSortVisualization" />
-      <recent name="C:\Users\46611\IdeaProjects\VisibleAlgo\src\Sort_Visualization\MergeSortBUVisualization" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -213,7 +221,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AlgoVisualizer (1)">
+  <component name="RunManager" selected="Application.AlgoVisualizer (2)">
     <configuration name="AlgoVisualizer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sort_Visualization.HeapSortVisualization.AlgoVisualizer" />
       <module name="VisibleAlgo" />
@@ -226,23 +234,12 @@
       </extension>
     </configuration>
     <configuration name="AlgoVisualizer (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sort_Visualization.QuickSortVisualization.AlgoVisualizer" />
-      <module name="VisibleAlgo" />
+      <option name="MAIN_CLASS_NAME" value="breadth_first_non_recursive.AlgoVisualizer" />
+      <module name="MazeSolver" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sort_Visualization.QuickSortVisualization.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="AlgoVisualizer (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sort_Visualization.QuickSort2WaysVisualization.AlgoVisualizer" />
-      <module name="VisibleAlgo" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Sort_Visualization.QuickSort2WaysVisualization.*" />
+          <option name="PATTERN" value="breadth_first_non_recursive.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -259,48 +256,20 @@
       </extension>
     </configuration>
     <configuration name="AlgoVisualizer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Probability_Problem.GetPI.AlgoVisualizer" />
-      <module name="VisibleAlgo" />
+      <option name="MAIN_CLASS_NAME" value="depth_first_non_recursive.AlgoVisualizer" />
+      <module name="MazeSolver" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Probability_Problem.GetPI.*" />
+          <option name="PATTERN" value="depth_first_non_recursive.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="MonteCarloExperiment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Probability_Problem.GetPI.Without_Rendering.MonteCarloExperiment" />
-      <module name="VisibleAlgo" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="MazeSolver" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Probability_Problem.GetPI.Without_Rendering.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="ThreeGateExperiment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Probability_Problem.ThreeGateExperiment.ThreeGateExperiment" />
-      <module name="VisibleAlgo" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Probability_Problem.ThreeGateExperiment.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="WinningPrize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Probability_Problem.WinningPrize.WinningPrize" />
-      <module name="VisibleAlgo" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Probability_Problem.WinningPrize.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -344,18 +313,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.MonteCarloExperiment" />
-      <item itemvalue="Application.AlgoVisualizer (2)" />
-      <item itemvalue="Application.AlgoVisualizer (3)" />
       <item itemvalue="Application.AlgoVisualizer (4)" />
       <item itemvalue="Application.AlgoVisualizer (1)" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.AlgoVisualizer" />
+      <item itemvalue="Application.AlgoVisualizer (2)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AlgoVisualizer (1)" />
-        <item itemvalue="Application.AlgoVisualizer (4)" />
-        <item itemvalue="Application.AlgoVisualizer (3)" />
         <item itemvalue="Application.AlgoVisualizer (2)" />
+        <item itemvalue="Application.AlgoVisualizer" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.AlgoVisualizer (4)" />
+        <item itemvalue="Application.AlgoVisualizer (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -381,7 +351,11 @@
       <workItem from="1554519477651" duration="7167000" />
       <workItem from="1554554758450" duration="2719000" />
       <workItem from="1554618864986" duration="2968000" />
-      <workItem from="1554663272774" duration="2351000" />
+      <workItem from="1554663272774" duration="2399000" />
+      <workItem from="1554697034581" duration="1736000" />
+      <workItem from="1554758021499" duration="9934000" />
+      <workItem from="1554775274320" duration="8258000" />
+      <workItem from="1554842123645" duration="3651000" />
     </task>
     <task id="LOCAL-00001" summary="Probability problem">
       <created>1554271590788</created>
@@ -425,11 +399,18 @@
       <option name="project" value="LOCAL" />
       <updated>1554621877359</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Heap Sort Visualization">
+      <created>1554668092342</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1554668092342</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36647000" />
+    <option name="totallyTimeSpent" value="60274000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -460,7 +441,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3281027" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2935657" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30965146" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -488,7 +469,8 @@
     <MESSAGE value="Insertion Sort Visualization" />
     <MESSAGE value="Merge Sort Visualization" />
     <MESSAGE value="Quick Sort Visualization" />
-    <option name="LAST_COMMIT_MESSAGE" value="Quick Sort Visualization" />
+    <MESSAGE value="Heap Sort Visualization" />
+    <option name="LAST_COMMIT_MESSAGE" value="Heap Sort Visualization" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -504,172 +486,17 @@
           <properties />
           <option name="timeStamp" value="13" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://E:/Java/jdk1.8.0_91/jre/lib/rt.jar!/sun/awt/datatransfer/SunClipboard.class</url>
+          <line>269</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="17" />
+      <option name="time" value="26" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Probability_Problem/GetPI/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Probability_Problem/GetPI/AlgoVisualizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1008">
-          <caret line="48" column="23" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Probability_Problem/MoneyProblem/AlgoVisHelper.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Template/AlgoFrame.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Probability_Problem/MoneyProblem/AlgoFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Probability_Problem/MoneyProblem/AlgoVisualizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" selection-start-column="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Template/AlgoVisualizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Probability_Problem/GetPI/AlgoVisHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Probability_Problem/GetPI/MonteCarloPiData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="48" column="1" lean-forward="true" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Probability_Problem/GetPI/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Probability_Problem/GetPI/AlgoFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1113">
-          <caret line="54" column="18" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Probability_Problem/GetPI/AlgoVisualizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="777">
-          <caret line="37" column="43" selection-start-line="35" selection-start-column="12" selection-end-line="37" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Probability_Problem/GetPI/Without_Rendering/MonteCarloExperiment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="861">
-          <caret line="44" column="19" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Probability_Problem/WinningPrize/WinningPrize.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Probability_Problem/ThreeGateExperiment/ThreeGateExperiment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sort_Visualization/SelectionSortVisualization/AlgoVisualizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sort_Visualization/SelectionSortVisualization/AlgoVisHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="90" column="34" selection-start-line="90" selection-start-column="24" selection-end-line="90" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sort_Visualization/SelectionSortVisualization/AlgoFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="75" column="13" lean-forward="true" selection-start-line="62" selection-start-column="12" selection-end-line="75" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sort_Visualization/InsertionSortVisualization/AlgoVisHelper.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sort_Visualization/InsertionSortVisualization/AlgoVisualizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="57" column="35" selection-start-line="57" selection-start-column="35" selection-end-line="57" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sort_Visualization/MergeSortVisualization.java" />
-    <entry file="file://$PROJECT_DIR$/src/Sort_Visualization/InsertionSortVisualization/AlgoFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="73" column="13" lean-forward="true" selection-start-line="63" selection-start-column="12" selection-end-line="73" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sort_Visualization/MergeSortTDVisualization/MergeSortData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sort_Visualization/MergeSortTDVisualization/AlgoVisHelper.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://F:/编程视频/看得见的算法 7个经典应用诠释算法精髓/project/n1pr8g/04-Sort-Visualization/06-Merge-Sort-Visualization/01-Merge-Sort-TD-Visualization/src/AlgoFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1197" />
-      </provider>
-    </entry>
-    <entry file="file://F:/编程视频/看得见的算法 7个经典应用诠释算法精髓/project/n1pr8g/04-Sort-Visualization/06-Merge-Sort-Visualization/01-Merge-Sort-TD-Visualization/src/AlgoVisualizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="41" column="25" lean-forward="true" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Sort_Visualization/MergeSortBUVisualization/AlgoVisHelper.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -809,20 +636,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sort_Visualization/HeapSortVisualization/AlgoFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="66" column="20" lean-forward="true" selection-start-line="66" selection-start-column="20" selection-end-line="66" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sort_Visualization/QuickSort3WaysVisualization/AlgoVisualizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="88" column="35" lean-forward="true" selection-start-line="87" selection-start-column="8" selection-end-line="88" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Sort_Visualization/HeapSortVisualization/HeapSortData.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-104">
@@ -832,8 +645,184 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Sort_Visualization/HeapSortVisualization/AlgoVisualizer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="59" column="35" selection-start-line="59" selection-start-column="35" selection-end-line="59" selection-end-column="35" />
+        <state relative-caret-position="652">
+          <caret line="54" column="5" lean-forward="true" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/AlgoFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-315">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sort_Visualization/HeapSortVisualization/AlgoFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="66" column="20" lean-forward="true" selection-start-line="66" selection-start-column="20" selection-end-line="66" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MazeSolver/MazeSolver.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://E:/Java/jdk1.8.0_91/src.zip!/java/awt/datatransfer/FlavorListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/jdk1.8.0_91/jre/lib/rt.jar!/sun/awt/windows/WToolkit.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="238" column="24" selection-start-line="238" selection-start-column="24" selection-end-line="238" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/jdk1.8.0_91/jre/lib/rt.jar!/sun/awt/EventListenerAggregate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/jdk1.8.0_91/src.zip!/java/awt/datatransfer/Clipboard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="43" column="15" lean-forward="true" selection-start-line="43" selection-start-column="10" selection-end-line="43" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/jdk1.8.0_91/jre/lib/rt.jar!/sun/awt/windows/WClipboard.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="101" selection-start-line="101" selection-end-line="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/jdk1.8.0_91/jre/lib/rt.jar!/sun/awt/AWTAutoShutdown.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/jdk1.8.0_91/jre/lib/rt.jar!/sun/awt/datatransfer/SunClipboard.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="280" selection-start-line="280" selection-end-line="280" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MazeSolver/maze_101_101.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MazeSolver/src/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/Sort_Visualization/QuickSort3WaysVisualization/AlgoVisualizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="96" column="8" selection-start-line="96" selection-start-column="8" selection-end-line="96" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MazeSolver/src/depth_first_recursion/AlgoFrame.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MazeSolver/src/depth_first_recursion/MazeData.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MazeSolver/src/depth_first_recursion/AlgoVisHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MazeSolver/src/depth_first_non_recursive/AlgoVisHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MazeSolver/src/depth_first_recursion/AlgoVisualizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="51" column="47" lean-forward="true" selection-start-line="49" selection-start-column="12" selection-end-line="51" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MazeSolver/src/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+          <folding>
+            <element signature="e#108#109#0" expanded="true" />
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MazeSolver/src/depth_first_non_recursive/Position.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+          <folding>
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MazeSolver/src/depth_first_non_recursive/MazeData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="58" column="26" selection-start-line="58" selection-start-column="26" selection-end-line="58" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MazeSolver/src/depth_first_non_recursive/AlgoFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="73" column="69" selection-start-line="73" selection-start-column="69" selection-end-line="73" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MazeSolver/src/depth_first_non_recursive/AlgoVisualizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="610">
+          <caret line="64" column="7" lean-forward="true" selection-start-line="64" selection-start-column="7" selection-end-line="64" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MazeSolver/src/breadth_first_non_recursive/MazeData.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MazeSolver/src/breadth_first_non_recursive/AlgoVisHelper.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MazeSolver/src/breadth_first_non_recursive/AlgoFrame.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MazeSolver/src/breadth_first_non_recursive/Position.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MazeSolver/src/breadth_first_non_recursive/AlgoVisualizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="65" column="5" lean-forward="true" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
         </state>
       </provider>
     </entry>

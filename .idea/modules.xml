@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/MazeSolver/MazeSolver.iml" filepath="$PROJECT_DIR$/MazeSolver/MazeSolver.iml" />
       <module fileurl="file://$PROJECT_DIR$/VisibleAlgo.iml" filepath="$PROJECT_DIR$/VisibleAlgo.iml" />
     </modules>
   </component>
