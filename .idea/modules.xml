@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Maze-Generator/Maze-Generator.iml" filepath="$PROJECT_DIR$/Maze-Generator/Maze-Generator.iml" />
       <module fileurl="file://$PROJECT_DIR$/MazeSolver/MazeSolver.iml" filepath="$PROJECT_DIR$/MazeSolver/MazeSolver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mine-Sweeper/Mine-Sweeper.iml" filepath="$PROJECT_DIR$/Mine-Sweeper/Mine-Sweeper.iml" />
       <module fileurl="file://$PROJECT_DIR$/VisibleAlgo.iml" filepath="$PROJECT_DIR$/VisibleAlgo.iml" />
     </modules>
   </component>
