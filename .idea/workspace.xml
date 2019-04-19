@@ -2,24 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce94acd7-0c77-4b7d-90b8-08881ec92a08" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Mine-Sweeper/Mine-Sweeper.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mine-Sweeper/resources/0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mine-Sweeper/resources/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mine-Sweeper/resources/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mine-Sweeper/resources/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mine-Sweeper/resources/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mine-Sweeper/resources/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mine-Sweeper/resources/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mine-Sweeper/resources/7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mine-Sweeper/resources/8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mine-Sweeper/resources/block.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mine-Sweeper/resources/flag.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mine-Sweeper/resources/mine.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mine-Sweeper/src/AlgoFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mine-Sweeper/src/AlgoVisHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mine-Sweeper/src/AlgoVisualizer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mine-Sweeper/src/MineSweeperData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Probability_Problem/ShuffleExp/ShuffleExp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Move-the-Box-Solver/Move-the-Box-Solver.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Move-the-Box-Solver/level/boston_09.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Move-the-Box-Solver/src/AlgoFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Move-the-Box-Solver/src/AlgoVisHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Move-the-Box-Solver/src/AlgoVisualizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Move-the-Box-Solver/src/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Move-the-Box-Solver/src/GameData.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -33,36 +22,52 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AlgoFrame.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Mine-Sweeper/src/AlgoFrame.java">
+      <file leaf-file-name="boston_09.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Move-the-Box-Solver/level/boston_09.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="GameData.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Move-the-Box-Solver/src/GameData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-13">
-              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+            <state relative-caret-position="448">
+              <caret line="82" column="29" selection-start-line="82" selection-start-column="29" selection-end-line="82" selection-end-column="29" />
               <folding>
-                <element signature="e#2413#2414#0" expanded="true" />
-                <element signature="e#2484#2485#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#1647#1648#0" expanded="true" />
+                <element signature="e#1679#1680#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MineSweeperData.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Mine-Sweeper/src/MineSweeperData.java">
+      <file leaf-file-name="Board.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Move-the-Box-Solver/src/Board.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="118" column="9" lean-forward="true" selection-start-line="118" selection-start-column="9" selection-end-line="118" selection-end-column="9" />
+            <state relative-caret-position="147">
+              <caret line="127" column="17" lean-forward="true" selection-start-line="127" selection-start-column="17" selection-end-line="127" selection-end-column="17" />
+              <folding>
+                <element signature="e#1290#1291#0" expanded="true" />
+                <element signature="e#1309#1310#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="AlgoVisualizer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Mine-Sweeper/src/AlgoVisualizer.java">
+        <entry file="file://$PROJECT_DIR$/Move-the-Box-Solver/src/AlgoVisualizer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="62" column="27" lean-forward="true" selection-start-line="62" selection-start-column="27" selection-end-line="62" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="525">
+              <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AlgoFrame.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Move-the-Box-Solver/src/AlgoFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="379">
+              <caret line="95" column="69" selection-start-line="95" selection-start-column="69" selection-end-line="95" selection-end-column="69" />
             </state>
           </provider>
         </entry>
@@ -99,11 +104,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Sort_Visualization/MergeSortVisualization/AlgoFrame.java" />
-        <option value="$PROJECT_DIR$/src/Sort_Visualization/MergeSortVisualization/MergeSortData.java" />
-        <option value="$PROJECT_DIR$/src/Sort_Visualization/MergeSortVisualization/AlgoVisualizer.java" />
-        <option value="$PROJECT_DIR$/src/Sort_Visualization/MergeSortTDVisualization/AlgoVisualizer.java" />
-        <option value="$PROJECT_DIR$/src/Sort_Visualization/MergeSortBUVisualization/AlgoVisHelper.java" />
         <option value="$PROJECT_DIR$/src/Sort_Visualization/MergeSortBUVisualization/AlgoVisualizer.java" />
         <option value="$PROJECT_DIR$/src/Sort_Visualization/QuickSortVisualization/AlgoFrame.java" />
         <option value="$PROJECT_DIR$/src/Sort_Visualization/QuickSortVisualization/QuickSortData.java" />
@@ -148,8 +148,13 @@
         <option value="$PROJECT_DIR$/Maze-Generator/src/random_generate/AlgoVisualizer.java" />
         <option value="$PROJECT_DIR$/src/Probability_Problem/ShuffleExp/ShuffleExp.java" />
         <option value="$PROJECT_DIR$/Mine-Sweeper/src/AlgoFrame.java" />
-        <option value="$PROJECT_DIR$/Mine-Sweeper/src/AlgoVisualizer.java" />
         <option value="$PROJECT_DIR$/Mine-Sweeper/src/MineSweeperData.java" />
+        <option value="$PROJECT_DIR$/Mine-Sweeper/src/AlgoVisualizer.java" />
+        <option value="$PROJECT_DIR$/Move-the-Box-Solver/src/AlgoVisHelper.java" />
+        <option value="$PROJECT_DIR$/Move-the-Box-Solver/src/AlgoVisualizer.java" />
+        <option value="$PROJECT_DIR$/Move-the-Box-Solver/src/GameData.java" />
+        <option value="$PROJECT_DIR$/Move-the-Box-Solver/src/Board.java" />
+        <option value="$PROJECT_DIR$/Move-the-Box-Solver/src/AlgoFrame.java" />
       </list>
     </option>
   </component>
@@ -168,15 +173,14 @@
     <option name="width" value="1385" />
     <option name="height" value="745" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -187,48 +191,27 @@
             <path>
               <item name="VisibleAlgo" type="b2602c69:ProjectViewProjectNode" />
               <item name="VisibleAlgo" type="462c0819:PsiDirectoryNode" />
-              <item name="Maze-Generator" type="462c0819:PsiDirectoryNode" />
+              <item name="Move-the-Box-Solver" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="VisibleAlgo" type="b2602c69:ProjectViewProjectNode" />
               <item name="VisibleAlgo" type="462c0819:PsiDirectoryNode" />
-              <item name="Maze-Generator" type="462c0819:PsiDirectoryNode" />
+              <item name="Move-the-Box-Solver" type="462c0819:PsiDirectoryNode" />
+              <item name="level" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VisibleAlgo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VisibleAlgo" type="462c0819:PsiDirectoryNode" />
+              <item name="Move-the-Box-Solver" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="VisibleAlgo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VisibleAlgo" type="462c0819:PsiDirectoryNode" />
-              <item name="Maze-Generator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="random_generate" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="VisibleAlgo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VisibleAlgo" type="462c0819:PsiDirectoryNode" />
-              <item name="Mine-Sweeper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="VisibleAlgo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VisibleAlgo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="VisibleAlgo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VisibleAlgo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Probability_Problem" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="VisibleAlgo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VisibleAlgo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Probability_Problem" type="462c0819:PsiDirectoryNode" />
-              <item name="ShuffleExp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -240,12 +223,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.customizations" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\46611\IdeaProjects\VisibleAlgo\Mine-Sweeper\src" />
-      <recent name="C:\Users\46611\IdeaProjects\VisibleAlgo\Mine-Sweeper" />
-      <recent name="C:\Users\46611\IdeaProjects\VisibleAlgo\Maze-Generator\src\random_generate" />
-      <recent name="C:\Users\46611\IdeaProjects\VisibleAlgo\Maze-Generator\src\breadth_first_non_recursive" />
-      <recent name="C:\Users\46611\IdeaProjects\VisibleAlgo\Maze-Generator\src\depth_first_non_recursive" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\46611\IdeaProjects\VisibleAlgo\MazeSolver" />
+      <recent name="C:\Users\46611\IdeaProjects\VisibleAlgo\MazeSolver\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Sort_Visualization.HeapSortVisualization" />
@@ -253,9 +233,12 @@
       <recent name="Sort_Visualization.MergeSortVisualization" />
       <recent name="Sort_Visualization.InsertionSortData" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\46611\IdeaProjects\VisibleAlgo\MazeSolver" />
-      <recent name="C:\Users\46611\IdeaProjects\VisibleAlgo\MazeSolver\src" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\46611\IdeaProjects\VisibleAlgo\Move-the-Box-Solver\src" />
+      <recent name="C:\Users\46611\IdeaProjects\VisibleAlgo\Move-the-Box-Solver" />
+      <recent name="C:\Users\46611\IdeaProjects\VisibleAlgo\Mine-Sweeper\src" />
+      <recent name="C:\Users\46611\IdeaProjects\VisibleAlgo\Mine-Sweeper" />
+      <recent name="C:\Users\46611\IdeaProjects\VisibleAlgo\Maze-Generator\src\random_generate" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -270,7 +253,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AlgoVisualizer (1)">
+  <component name="RunManager" selected="Application.AlgoVisualizer">
     <configuration name="AlgoVisualizer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AlgoVisualizer" />
       <module name="Mine-Sweeper" />
@@ -287,17 +270,6 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="AlgoVisualizer (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sort_Visualization.SelectionSortVisualization.AlgoVisualizer" />
-      <module name="VisibleAlgo" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Sort_Visualization.SelectionSortVisualization.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <configuration name="AlgoVisualizer (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sort_Visualization.HeapSortVisualization.AlgoVisualizer" />
       <module name="VisibleAlgo" />
@@ -308,6 +280,11 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+    </configuration>
+    <configuration name="AlgoVisualizer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AlgoVisualizer" />
+      <module name="Move-the-Box-Solver" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="ShuffleExp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Probability_Problem.ShuffleExp.ShuffleExp" />
@@ -362,19 +339,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.AlgoVisualizer (4)" />
       <item itemvalue="Application.AlgoVisualizer (2)" />
       <item itemvalue="Application.AlgoVisualizer (5)" />
       <item itemvalue="Application.AlgoVisualizer (1)" />
       <item itemvalue="Application.ShuffleExp" />
+      <item itemvalue="Application.AlgoVisualizer" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AlgoVisualizer" />
         <item itemvalue="Application.AlgoVisualizer (1)" />
         <item itemvalue="Application.ShuffleExp" />
         <item itemvalue="Application.AlgoVisualizer (5)" />
         <item itemvalue="Application.AlgoVisualizer (2)" />
-        <item itemvalue="Application.AlgoVisualizer (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -411,7 +388,10 @@
       <workItem from="1555292901922" duration="4929000" />
       <workItem from="1555421518512" duration="1569000" />
       <workItem from="1555467807097" duration="2449000" />
-      <workItem from="1555475990954" duration="5417000" />
+      <workItem from="1555475990954" duration="6156000" />
+      <workItem from="1555546474894" duration="12517000" />
+      <workItem from="1555635066843" duration="112000" />
+      <workItem from="1555635367898" duration="1954000" />
     </task>
     <task id="LOCAL-00001" summary="Probability problem">
       <created>1554271590788</created>
@@ -476,13 +456,20 @@
       <option name="project" value="LOCAL" />
       <updated>1555292530637</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add Mine Sweeper game and ShuffleExp Algo">
+      <created>1555499911430</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1555499911430</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87992000" />
+    <option name="totallyTimeSpent" value="103314000" />
   </component>
-  <component name="TodoView">
+  <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
     </todo-panel>
@@ -492,7 +479,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -505,20 +492,20 @@
       <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="5" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3281027" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.32952926" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3281027" />
       <window_info anchor="bottom" id="Sequence" order="9" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3281027" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49893844" visible="true" weight="0.33981234" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49893844" visible="true" weight="0.24128686" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" sideWeight="0.50106156" side_tool="true" weight="0.32573727" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="3" />
       <window_info anchor="right" id="Theme Preview" order="7" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39800286" />
       <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39800286" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -542,7 +529,8 @@
     <MESSAGE value="Heap Sort Visualization" />
     <MESSAGE value="Maze Solver Visualization" />
     <MESSAGE value="Maze Generator Visualization" />
-    <option name="LAST_COMMIT_MESSAGE" value="Maze Generator Visualization" />
+    <MESSAGE value="add Mine Sweeper game and ShuffleExp Algo" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Mine Sweeper game and ShuffleExp Algo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -575,52 +563,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://E:/Java/jdk1.8.0_91/jre/lib/rt.jar!/sun/awt/AWTAutoShutdown.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/Java/jdk1.8.0_91/jre/lib/rt.jar!/sun/awt/datatransfer/SunClipboard.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="280" selection-start-line="280" selection-end-line="280" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MazeSolver/maze_101_101.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MazeSolver/src/Main.java" />
-    <entry file="file://$PROJECT_DIR$/MazeSolver/src/depth_first_recursion/AlgoFrame.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MazeSolver/src/depth_first_recursion/MazeData.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MazeSolver/src/depth_first_recursion/AlgoVisHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MazeSolver/src/depth_first_non_recursive/AlgoVisHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MazeSolver/src/Test.java" />
-    <entry file="file://$PROJECT_DIR$/MazeSolver/src/depth_first_non_recursive/Position.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MazeSolver/src/depth_first_non_recursive/MazeData.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -847,29 +789,89 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Mine-Sweeper/src/AlgoFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-13">
-          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
-          <folding>
-            <element signature="e#2413#2414#0" expanded="true" />
-            <element signature="e#2484#2485#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Mine-Sweeper/src/AlgoVisualizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="62" column="27" lean-forward="true" selection-start-line="62" selection-start-column="27" selection-end-line="62" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="1197">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Mine-Sweeper/src/MineSweeperData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="118" column="9" lean-forward="true" selection-start-line="118" selection-start-column="9" selection-end-line="118" selection-end-column="9" />
+        <state>
+          <caret column="30" selection-start-column="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mine-Sweeper/src/AlgoVisualizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Move-the-Box-Solver/src/AlgoVisHelper.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://E:/Java/jdk1.8.0_91/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-994">
+          <caret line="531" column="22" selection-start-line="531" selection-start-column="22" selection-end-line="531" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/编程视频/看得见的算法 7个经典应用诠释算法精髓/project/n1pr8g/08-Move-the-Box-Solver/03-Move-the-Box-Solver-Rendering/src/AlgoVisualizer.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://F:/编程视频/看得见的算法 7个经典应用诠释算法精髓/project/n1pr8g/08-Move-the-Box-Solver/03-Move-the-Box-Solver-Rendering/src/AlgoFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="63" column="50" lean-forward="true" selection-start-line="53" selection-start-column="12" selection-end-line="63" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/jdk1.8.0_91/src.zip!/javax/swing/JPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="107" column="11" selection-start-line="107" selection-start-column="11" selection-end-line="107" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Move-the-Box-Solver/level/boston_09.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Move-the-Box-Solver/src/AlgoVisualizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Move-the-Box-Solver/src/GameData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="82" column="29" selection-start-line="82" selection-start-column="29" selection-end-line="82" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1647#1648#0" expanded="true" />
+            <element signature="e#1679#1680#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Move-the-Box-Solver/src/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="127" column="17" lean-forward="true" selection-start-line="127" selection-start-column="17" selection-end-line="127" selection-end-column="17" />
+          <folding>
+            <element signature="e#1290#1291#0" expanded="true" />
+            <element signature="e#1309#1310#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Move-the-Box-Solver/src/AlgoFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="95" column="69" selection-start-line="95" selection-start-column="69" selection-end-line="95" selection-end-column="69" />
         </state>
       </provider>
     </entry>
